@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GWF version="2.0">
+    <staticSector>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="2210992962464" parent="0" x="1053.12" y="553.879" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="false" file_name=""><![CDATA[Отель Атриум. Гости могут пользоваться сейфом и мини-баром. В распоряжении гостей телевизор и радио. Несколько номеров адаптировано для кресел-колясок. Eсть душ. Фен и телефон создадут ощущение домашнего уюта. Для людей с ограниченными возможностями – номера с безбарьерными ванными комнатами.
+Большинство этажей обслуживается лифтом. Можно воспользоваться камерой хранения багажа, сейфом и банкоматом. WiFi в общественных зонах (бесплатно) позволит гостям быть в курсе событий. Сотрудники туристического бюро с удовольствием помогут вам при организации туров и экскурсий. Гастрономические заведения включают ресторан и бар. На территории отеля есть различные магазины. Для гостей работает телезал. Машину можно припарковать на собственной автостоянке отеля (за отдельную плату). Услуги трансфера и прачечная позволят по-настоящему отдохнуть. Лекции, презентации и заседания могут быть организованы в одном из 3 конференц-залов.
+Заезд: 14:00
+Выезд: 12:00]]></content>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="2210992957056" parent="0" x="847.172" y="533.028" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[Атриум]]></content>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="2210991111792" parent="0" x="612.931" y="-125.815" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[улица Ленинская 45]]></content>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_city" shapeColor="0" id="2210992954352" parent="0" left="0" top="0" right="57" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="524.106" y="405.702" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/group" idtf="concept_wit_entity" shapeColor="0" id="2210992955808" parent="0" left="0" top="0" right="113" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="181.5" y="246.5" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="Mogilev" shapeColor="0" id="2210992954144" parent="0" left="0" top="0" right="54" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="399.819" y="400.734" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/group" idtf="concept_hotel" shapeColor="0" id="2210992953728" parent="0" left="0" top="0" right="86" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="444.5" y="168.5" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_city" shapeColor="0" id="2210991119488" parent="0" left="0" top="0" right="57" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="634.787" y="162.374" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_city" shapeColor="0" id="2210991106800" parent="0" left="0" top="0" right="57" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="391.318" y="297.379" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="2210991126976" parent="0" x="1029.05" y="91.1901" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="false" file_name=""><![CDATA[В отеле Лира всего восемь номеров, но обставлены они шикарно. Каждый уголок отеля выполнен так, что несет в себе частичку королевского шика.
+Из номеров вы можете выбрать, будете проживать в люксе или стандарте, в любом случае вы окунетесь в мир роскоши. Каждый номер оборудован своей собственной ванной комнатой, кроватью King-Size, плазменной панелью.
+Ресторан оборудован несколькими столиками и подаются здесь блюда европейской кухни. Зона ресторана выполнена в светлых тонах, поэтому здесь приятно находится даже длительное время.
+Рядом находятся школа, Комсомольский парк, памятник звездочету, множество различных музеев, культурные и развлекательные центры, Собор Успения Девы Марии и дворец Архиепископа.]]></content>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="2210991118864" parent="0" x="1126.94" y="9.30812" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[отсутствует]]></content>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="2210991116368" parent="0" x="1114.73" y="-129.584" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[3]]></content>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="2210991127184" parent="0" x="759.304" y="24.1781" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[130 br]]></content>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="2210991108048" parent="0" x="823.103" y="70.3391" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[Лира]]></content>
+        </node>
+        <node type="node/const/perm/general" idtf="Lira" shapeColor="0" id="2210991121984" parent="0" left="0" top="0" right="32" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="839.315" y="-194.43" haveBus="false" idtf_pos="3">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_price" shapeColor="0" id="2210991109296" parent="0" left="0" top="0" right="65" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="701.549" y="-38.9039" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_address" shapeColor="0" id="2210991112416" parent="0" left="0" top="0" right="79" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="766.029" y="-114.099" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_site" shapeColor="0" id="2210991128016" parent="0" left="0" top="0" right="56" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="1012.58" y="-102.664" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_main_idtf" shapeColor="0" id="2210991113456" parent="0" left="0" top="0" right="93" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="925.714" y="-21.0399" haveBus="false" idtf_pos="2">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_description" shapeColor="0" id="2210991118656" parent="0" left="0" top="0" right="99" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="941.891" y="14.7071" haveBus="false" idtf_pos="1">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/group" idtf="lang_ru" shapeColor="0" id="2210991106176" parent="0" left="0" top="0" right="52" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="782.759" y="196.329" haveBus="false" idtf_pos="2">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_stars" shapeColor="0" id="2210991109712" parent="0" left="0" top="0" right="63" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="1024.04" y="-210.327" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="2210991114912" parent="0" x="-142" y="-70.1892" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[улица Лазаренко 27]]></content>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="2210991103888" parent="0" x="274.12" y="147.88" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="false" file_name=""><![CDATA[В шаговой доступности от центра Могилева в 2001 году был открыт удивительный отель «КИМ». Для путешественников с автомобилями здесь предусмотрена бесплатная автостоянка с охраной, где без труда можно разместить более 10 автомобилей.
+Среди гостиниц и отелей Могилева «КИМ» выделяется уровнем комфорта и безупречным обслуживанием.
+Во всех номерах гостиницы, несмотря на бурную развлекательную жизнь большого города, всегда спокойно и уютно. Персонал отеля создаст для Вас все условия домашнего комфорта и уюта. Вам определенно понравится свежеприготовленный завтрак с утра с бодрящей чашечкой кофе в небольшом кафе отеля или с доставкой в Ваш номер.
+В просторных номерах нашего отеля есть всё необходимое для качественного отдыха: доступ WI-FI, кабельное ТВ, наборы полотенец, халаты, наборы для чистки обуви и одежды, фен, мини-бар, городской телефон, бесплатная услуга «будильник».
+В гостинице работает гибкая система скидок, акции и специальные предложения, возможна любая форма оплаты, также устанавливается обратная связь с клиентом для постоянного улучшения качества обслуживания!]]></content>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="2210991116576" parent="0" x="360.864" y="-72.8942" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[3]]></content>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="2210991108672" parent="0" x="373.9" y="67.6507" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[https://www.kim-hotel.by/]]></content>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="2210991110128" parent="0" x="5.437" y="80.8678" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[135 br]]></content>
+        </node>
+        <node type="node/const/perm/general" idtf="Kim" shapeColor="0" id="2210991116784" parent="0" left="0" top="0" right="31" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="85.448" y="-137.74" haveBus="false" idtf_pos="3">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="2210991112624" parent="0" x="69.236" y="127.029" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[Ким]]></content>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_price" shapeColor="0" id="2210991115328" parent="0" left="0" top="0" right="65" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="-52.318" y="17.7858" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_site" shapeColor="0" id="2210991110960" parent="0" left="0" top="0" right="56" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="258.714" y="-45.9742" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_address" shapeColor="0" id="2210991107840" parent="0" left="0" top="0" right="79" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="12.162" y="-57.4092" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_description" shapeColor="0" id="2210991104096" parent="0" left="0" top="0" right="99" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="188.024" y="71.3968" haveBus="false" idtf_pos="1">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_main_idtf" shapeColor="0" id="2210991113248" parent="0" left="0" top="0" right="93" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="171.847" y="35.6498" haveBus="false" idtf_pos="2">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_stars" shapeColor="0" id="2210991114704" parent="0" left="0" top="0" right="63" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="270.174" y="-153.637" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/group" idtf="lang_ru" shapeColor="0" id="2210991109088" parent="0" left="0" top="0" right="52" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="28.892" y="253.017" haveBus="false" idtf_pos="2">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_city" shapeColor="0" id="2210991111376" parent="0" left="0" top="0" right="57" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="368.011" y="468.011" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_city" shapeColor="0" id="2210992977856" parent="0" left="0" top="0" right="57" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="235.032" y="368.011" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="2210992969120" parent="0" x="487.3" y="961.242" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[Метропол]]></content>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="2210991106384" parent="0" x="692.184" y="982.093" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="false" file_name=""><![CDATA[Отель Метропол. В номерах есть кондиционер воздуха. Гости могут пользоваться сейфом и мини-баром. Также есть телевизор. Фен и телефон – эти необходимые мелочи вы также найдёте в своей ванной комнате.
+Лифт доставит вас на верхние этажи. Работают камера хранения багажа и сейф. Благодаря WiFi в общественных зонах гости имеют возможность свободно пользоваться интернетом. Сотрудники туристического бюро с удовольствием помогут вам при организации туров и экскурсий. Гастрономические заведения включают ресторан и бар. Машину можно припарковать на собственной автостоянке отеля (бесплатно). Отель предлагает услуги трансфера и доставку еды в номер.
+Заезд: 12:00
+Выезд: 12:00]]></content>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="2210991113664" parent="0" x="791.138" y="900.211" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[http://www.metropol.by/]]></content>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="2210991116160" parent="0" x="423.501" y="915.081" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[324 br]]></content>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="2210992970992" parent="0" x="276.064" y="764.024" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[улица Комсомольская 6]]></content>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="2210991890912" parent="0" x="778.928" y="761.319" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[4]]></content>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_price" shapeColor="0" id="2210991889456" parent="0" left="0" top="0" right="65" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="365.746" y="851.999" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_address" shapeColor="0" id="2210991110752" parent="0" left="0" top="0" right="79" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="430.226" y="776.804" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_site" shapeColor="0" id="2210991115120" parent="0" left="0" top="0" right="56" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="676.778" y="788.239" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_main_idtf" shapeColor="0" id="2210991105136" parent="0" left="0" top="0" right="93" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="589.911" y="869.863" haveBus="false" idtf_pos="2">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_description" shapeColor="0" id="2210991108880" parent="0" left="0" top="0" right="99" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="606.088" y="905.61" haveBus="false" idtf_pos="1">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/group" idtf="lang_ru" shapeColor="0" id="2210916963376" parent="0" left="0" top="0" right="52" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="446.956" y="1087.23" haveBus="false" idtf_pos="2">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="Metropol" shapeColor="0" id="2210991107216" parent="0" left="0" top="0" right="60" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="503.512" y="696.473" haveBus="false" idtf_pos="3">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_stars" shapeColor="0" id="2210990424032" parent="0" left="0" top="0" right="63" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="688.238" y="680.576" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="2210992968496" parent="0" x="-273" y="476.875" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[улица Ленинская 56]]></content>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_stars" shapeColor="0" id="2210992977440" parent="0" left="0" top="0" right="63" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="170.025" y="428.533" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="2210992980560" parent="0" x="241.01" y="611.998" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[https://gubernsky.by/]]></content>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="2210991898608" parent="0" x="143.12" y="693.88" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="false" file_name=""><![CDATA[Изысканный отель в здании начала XX века. В 2 км находится Свято-Никольский монастырь, а в 9 км – военный мемориальный комплекс "Буйничское поле".
+Изысканные номера с простым и роскошным оформлением оснащены Wi-Fi, телевизорами с плоским экраном и мини-барами. Из многих номеров открывается вид на город или внутренний двор. В улучшенных номерах есть диваны, а в люксах – гидромассажные ванны, гостиные, балконы и/или мини-кухни. Предоставляется круглосуточное обслуживание номеров.
+На территории отеля есть уютная лаундж-зона, скромный ресторан, спа-центр с джакузи, парная и тренажерный зал. Доступны завтрак и парковка.
+Заезд: 14:00
+Выезд: 12:00]]></content>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="2210992965168" parent="0" x="-53.2535" y="674.093" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[Губернский]]></content>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="2210991897776" parent="0" x="-126.627" y="626.868" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[232 br]]></content>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="2210992971408" parent="0" x="228.8" y="473.106" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[3]]></content>
+        </node>
+        <node type="node/const/perm/general" idtf="HubernskiMogilev" shapeColor="0" id="2210992976608" parent="0" left="0" top="0" right="112" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="-46.616" y="408.26" haveBus="false" idtf_pos="3">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_price" shapeColor="0" id="2210992965584" parent="0" left="0" top="0" right="65" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="-184.382" y="563.786" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_address" shapeColor="0" id="2210992980144" parent="0" left="0" top="0" right="79" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="-119.902" y="488.591" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_site" shapeColor="0" id="2210991887792" parent="0" left="0" top="0" right="56" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="126.65" y="500.026" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_main_idtf" shapeColor="0" id="2210992982016" parent="0" left="0" top="0" right="93" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="39.783" y="581.65" haveBus="false" idtf_pos="2">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_description" shapeColor="0" id="2210992963088" parent="0" left="0" top="0" right="99" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="55.96" y="617.397" haveBus="false" idtf_pos="1">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/group" idtf="lang_ru" shapeColor="0" id="2210992979936" parent="0" left="0" top="0" right="52" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="-103.172" y="799.019" haveBus="false" idtf_pos="2">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="2210992956848" parent="0" x="1151.01" y="471.997" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[https://atriumhotel.by/]]></content>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="2210992975360" parent="0" x="783.373" y="486.867" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[380 br]]></content>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="2210992972032" parent="0" x="1138.8" y="333.105" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[4]]></content>
+        </node>
+        <node type="node/const/perm/general" idtf="ATRIUM" shapeColor="0" id="2210992957680" parent="0" left="0" top="0" right="60" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="863.384" y="268.259" haveBus="false" idtf_pos="3">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="2210992967664" parent="0" x="637" y="336.874" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[ул. Первомайская 57]]></content>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_stars" shapeColor="0" id="2210992954560" parent="0" left="0" top="0" right="63" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="1048.11" y="252.362" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/group" idtf="lang_ru" shapeColor="0" id="2210992958096" parent="0" left="0" top="0" right="52" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="806.828" y="659.018" haveBus="false" idtf_pos="2">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_description" shapeColor="0" id="2210992959136" parent="0" left="0" top="0" right="99" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="965.96" y="477.396" haveBus="false" idtf_pos="1">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_site" shapeColor="0" id="2210992961008" parent="0" left="0" top="0" right="56" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="1036.65" y="360.025" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_main_idtf" shapeColor="0" id="2210992960800" parent="0" left="0" top="0" right="93" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="949.783" y="441.649" haveBus="false" idtf_pos="2">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_address" shapeColor="0" id="2210992961632" parent="0" left="0" top="0" right="79" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="790.098" y="348.59" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_price" shapeColor="0" id="2210992962048" parent="0" left="0" top="0" right="65" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="725.618" y="423.785" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210994857408" parent="0" id_b="2210992955808" id_e="2210992957680" b_x="181.5" b_y="246.5" e_x="863.384" e_y="268.259" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993857744" parent="0" id_b="2210991106176" id_e="2210991126976" b_x="782.759" b_y="196.329" e_x="1029.05" e_y="91.1901" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993862544" parent="0" id_b="2210991119488" id_e="2210993862304" b_x="634.787" b_y="162.374" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.558726">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="2210993862304" parent="0" id_b="2210991121984" id_e="2210992954144" b_x="839.315" b_y="-194.43" e_x="399.819" e_y="400.734" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993852704" parent="0" id_b="2210992955808" id_e="2210991121984" b_x="181.5" b_y="246.5" e_x="839.315" e_y="-194.43" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993852464" parent="0" id_b="2210992953728" id_e="2210991121984" b_x="444.5" b_y="168.5" e_x="839.315" e_y="-194.43" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="2210993860864" parent="0" id_b="2210991121984" id_e="2210991126976" b_x="839.315" b_y="-194.43" e_x="1029.05" e_y="91.1901" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210994864608" parent="0" id_b="2210992954560" id_e="2210994863648" b_x="1048.11" b_y="252.362" e_x="473.616" e_y="500.336" dotBBalance="0" dotEBalance="0.524206">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993850544" parent="0" id_b="2210991118656" id_e="2210993860864" b_x="941.891" b_y="14.7071" e_x="-24.069" e_y="-462.689" dotBBalance="0" dotEBalance="0.851276">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="2210993854864" parent="0" id_b="2210991121984" id_e="2210991108048" b_x="839.315" b_y="-194.43" e_x="823.103" e_y="70.3391" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993850784" parent="0" id_b="2210991109712" id_e="2210993863264" b_x="1024.04" b_y="-210.327" e_x="-24.069" e_y="-462.689" dotBBalance="0" dotEBalance="0.524206">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="2210993854144" parent="0" id_b="2210991121984" id_e="2210991127184" b_x="839.315" b_y="-194.43" e_x="759.304" e_y="24.1781" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993855824" parent="0" id_b="2210991128016" id_e="2210993850064" b_x="1012.58" b_y="-102.664" e_x="-24.069" e_y="-462.689" dotBBalance="0" dotEBalance="0.497204">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="2210993863264" parent="0" id_b="2210991121984" id_e="2210991116368" b_x="839.315" b_y="-194.43" e_x="1114.73" e_y="-129.584" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993851024" parent="0" id_b="2210991113456" id_e="2210993854864" b_x="925.714" b_y="-21.0399" e_x="-24.069" e_y="-462.689" dotBBalance="0" dotEBalance="0.713993">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993858944" parent="0" id_b="2210991106176" id_e="2210991108048" b_x="782.759" b_y="196.329" e_x="823.103" e_y="70.3391" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993860144" parent="0" id_b="2210991106176" id_e="2210991118864" b_x="782.759" b_y="196.329" e_x="1126.94" e_y="9.30812" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993861584" parent="0" id_b="2210991106176" id_e="2210991111792" b_x="782.759" b_y="196.329" e_x="612.931" e_y="-125.815" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="2210993856784" parent="0" id_b="2210991121984" id_e="2210991111792" b_x="839.315" b_y="-194.43" e_x="612.931" e_y="-125.815" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993859904" parent="0" id_b="2210991106176" id_e="2210991127184" b_x="782.759" b_y="196.329" e_x="759.304" e_y="24.1781" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="2210993850064" parent="0" id_b="2210991121984" id_e="2210991118864" b_x="839.315" b_y="-194.43" e_x="1126.94" e_y="9.30812" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993854384" parent="0" id_b="2210991112416" id_e="2210993856784" b_x="766.029" b_y="-114.099" e_x="-24.069" e_y="-462.689" dotBBalance="0" dotEBalance="0.647229">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993858704" parent="0" id_b="2210991109296" id_e="2210993854144" b_x="701.549" b_y="-38.9039" e_x="-24.069" e_y="-462.689" dotBBalance="0" dotEBalance="0.436716">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993857024" parent="0" id_b="2210991106176" id_e="2210991116368" b_x="782.759" b_y="196.329" e_x="1114.73" e_y="-129.584" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210994851648" parent="0" id_b="2210992953728" id_e="2210992957680" b_x="444.5" b_y="168.5" e_x="863.384" e_y="268.259" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993858224" parent="0" id_b="2210991106800" id_e="2210993851984" b_x="391.318" b_y="297.379" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.853169">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="2210993851984" parent="0" id_b="2210991116784" id_e="2210992954144" b_x="85.448" b_y="-137.74" e_x="399.819" e_y="400.734" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993849104" parent="0" id_b="2210992955808" id_e="2210991116784" b_x="181.5" b_y="246.5" e_x="85.448" e_y="-137.74" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993851744" parent="0" id_b="2210992953728" id_e="2210991116784" b_x="444.5" b_y="168.5" e_x="85.448" e_y="-137.74" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993851504" parent="0" id_b="2210991115328" id_e="2210993851264" b_x="-52.318" b_y="17.7858" e_x="-418.064" e_y="-834.213" dotBBalance="0" dotEBalance="0.436716">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="2210993852224" parent="0" id_b="2210991116784" id_e="2210991112624" b_x="85.448" b_y="-137.74" e_x="69.236" e_y="127.029" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993862064" parent="0" id_b="2210991104096" id_e="2210993854624" b_x="188.024" b_y="71.3968" e_x="-418.064" e_y="-834.213" dotBBalance="0" dotEBalance="0.851276">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="2210993861104" parent="0" id_b="2210991116784" id_e="2210991108672" b_x="85.448" b_y="-137.74" e_x="373.9" e_y="67.6507" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="2210993851264" parent="0" id_b="2210991116784" id_e="2210991110128" b_x="85.448" b_y="-137.74" e_x="5.437" e_y="80.8678" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993855584" parent="0" id_b="2210991109088" id_e="2210991112624" b_x="28.892" b_y="253.017" e_x="69.236" e_y="127.029" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993853184" parent="0" id_b="2210991113248" id_e="2210993852224" b_x="171.847" b_y="35.6498" e_x="-418.064" e_y="-834.213" dotBBalance="0" dotEBalance="0.713993">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="2210993856064" parent="0" id_b="2210991116784" id_e="2210991114912" b_x="85.448" b_y="-137.74" e_x="-142" e_y="-70.1892" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993858464" parent="0" id_b="2210991109088" id_e="2210991108672" b_x="28.892" b_y="253.017" e_x="373.9" e_y="67.6507" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993852944" parent="0" id_b="2210991109088" id_e="2210991116576" b_x="28.892" b_y="253.017" e_x="360.864" e_y="-72.8942" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993857264" parent="0" id_b="2210991109088" id_e="2210991114912" b_x="28.892" b_y="253.017" e_x="-142" e_y="-70.1892" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993856544" parent="0" id_b="2210991110960" id_e="2210993861104" b_x="258.714" b_y="-45.9742" e_x="-418.064" e_y="-834.213" dotBBalance="0" dotEBalance="0.497204">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993848864" parent="0" id_b="2210991109088" id_e="2210991103888" b_x="28.892" b_y="253.017" e_x="274.12" e_y="147.88" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993848384" parent="0" id_b="2210991107840" id_e="2210993856064" b_x="12.162" b_y="-57.4092" e_x="-418.064" e_y="-834.213" dotBBalance="0" dotEBalance="0.647229">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993849584" parent="0" id_b="2210991114704" id_e="2210993848144" b_x="270.174" b_y="-153.637" e_x="-418.064" e_y="-834.213" dotBBalance="0" dotEBalance="0.524206">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993863024" parent="0" id_b="2210991109088" id_e="2210991110128" b_x="28.892" b_y="253.017" e_x="5.437" e_y="80.8678" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="2210993854624" parent="0" id_b="2210991116784" id_e="2210991103888" b_x="85.448" b_y="-137.74" e_x="274.12" e_y="147.88" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="2210993848144" parent="0" id_b="2210991116784" id_e="2210991116576" b_x="85.448" b_y="-137.74" e_x="360.864" e_y="-72.8942" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="2210993839744" parent="0" id_b="2210991107216" id_e="2210992970992" b_x="503.512" b_y="696.473" e_x="276.064" e_y="764.024" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993841664" parent="0" id_b="2210991111376" id_e="2210993833264" b_x="368.011" b_y="468.011" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.840177">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="2210993833264" parent="0" id_b="2210991107216" id_e="2210992954144" b_x="503.512" b_y="696.473" e_x="399.819" e_y="400.734" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993841184" parent="0" id_b="2210992977856" id_e="2210993832784" b_x="235.032" b_y="368.011" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.677775">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="2210993832784" parent="0" id_b="2210992976608" id_e="2210992954144" b_x="-46.616" b_y="408.26" e_x="399.819" e_y="400.734" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993841904" parent="0" id_b="2210992955808" id_e="2210991107216" b_x="181.5" b_y="246.5" e_x="503.512" e_y="696.473" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993843104" parent="0" id_b="2210992953728" id_e="2210991107216" b_x="444.5" b_y="168.5" e_x="503.512" e_y="696.473" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993845264" parent="0" id_b="2210991108880" id_e="2210993834224" b_x="606.088" b_y="905.61" e_x="-359.872" e_y="428.214" dotBBalance="0" dotEBalance="0.851276">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="2210993846464" parent="0" id_b="2210991107216" id_e="2210992969120" b_x="503.512" b_y="696.473" e_x="487.3" e_y="961.242" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993835664" parent="0" id_b="2210990424032" id_e="2210993833744" b_x="688.238" b_y="680.576" e_x="-359.872" e_y="428.214" dotBBalance="0" dotEBalance="0.524206">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="2210993841424" parent="0" id_b="2210991107216" id_e="2210991116160" b_x="503.512" b_y="696.473" e_x="423.501" e_y="915.081" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993837104" parent="0" id_b="2210991115120" id_e="2210993844544" b_x="676.778" b_y="788.239" e_x="-359.872" e_y="428.214" dotBBalance="0" dotEBalance="0.497204">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="2210993833744" parent="0" id_b="2210991107216" id_e="2210991890912" b_x="503.512" b_y="696.473" e_x="778.928" e_y="761.319" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="2210993834224" parent="0" id_b="2210991107216" id_e="2210991106384" b_x="503.512" b_y="696.473" e_x="692.184" e_y="982.093" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993840224" parent="0" id_b="2210991105136" id_e="2210993846464" b_x="589.911" b_y="869.863" e_x="-359.872" e_y="428.214" dotBBalance="0" dotEBalance="0.713993">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993840944" parent="0" id_b="2210916963376" id_e="2210992969120" b_x="446.956" b_y="1087.23" e_x="487.3" e_y="961.242" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993839264" parent="0" id_b="2210916963376" id_e="2210991113664" b_x="446.956" b_y="1087.23" e_x="791.138" e_y="900.211" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993837824" parent="0" id_b="2210916963376" id_e="2210992970992" b_x="446.956" b_y="1087.23" e_x="276.064" e_y="764.024" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993834464" parent="0" id_b="2210916963376" id_e="2210991116160" b_x="446.956" b_y="1087.23" e_x="423.501" e_y="915.081" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993836144" parent="0" id_b="2210916963376" id_e="2210991106384" b_x="446.956" b_y="1087.23" e_x="692.184" e_y="982.093" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="2210993844544" parent="0" id_b="2210991107216" id_e="2210991113664" b_x="503.512" b_y="696.473" e_x="791.138" e_y="900.211" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993835904" parent="0" id_b="2210991110752" id_e="2210993839744" b_x="430.226" b_y="776.804" e_x="-359.872" e_y="428.214" dotBBalance="0" dotEBalance="0.647229">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993846944" parent="0" id_b="2210991889456" id_e="2210993841424" b_x="365.746" b_y="851.999" e_x="-359.872" e_y="428.214" dotBBalance="0" dotEBalance="0.436716">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993838064" parent="0" id_b="2210916963376" id_e="2210991890912" b_x="446.956" b_y="1087.23" e_x="778.928" e_y="761.319" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993838544" parent="0" id_b="2210992953728" id_e="2210992976608" b_x="444.5" b_y="168.5" e_x="-46.616" e_y="408.26" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993836864" parent="0" id_b="2210992955808" id_e="2210992976608" b_x="181.5" b_y="246.5" e_x="-46.616" e_y="408.26" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210988266992" parent="0" id_b="2210992963088" id_e="2210988262192" b_x="55.96" b_y="617.397" e_x="-910" e_y="140.001" dotBBalance="0" dotEBalance="0.851276">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="2210988255232" parent="0" id_b="2210992976608" id_e="2210992965168" b_x="-46.616" b_y="408.26" e_x="-53.2535" e_y="674.093" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993834944" parent="0" id_b="2210992977440" id_e="2210988261712" b_x="170.025" b_y="428.533" e_x="-910" e_y="140.001" dotBBalance="0" dotEBalance="0.524206">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="2210988256192" parent="0" id_b="2210992976608" id_e="2210991897776" b_x="-46.616" b_y="408.26" e_x="-126.627" e_y="626.868" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210988261952" parent="0" id_b="2210991887792" id_e="2210988264832" b_x="126.65" b_y="500.026" e_x="-910" e_y="140.001" dotBBalance="0" dotEBalance="0.497204">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="2210988261712" parent="0" id_b="2210992976608" id_e="2210992971408" b_x="-46.616" b_y="408.26" e_x="228.8" e_y="473.106" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="2210988262192" parent="0" id_b="2210992976608" id_e="2210991898608" b_x="-46.616" b_y="408.26" e_x="143.12" e_y="693.88" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993844064" parent="0" id_b="2210992982016" id_e="2210988255232" b_x="39.783" b_y="581.65" e_x="-910" e_y="140.001" dotBBalance="0" dotEBalance="0.713993">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993847184" parent="0" id_b="2210992979936" id_e="2210992965168" b_x="-103.172" b_y="799.019" e_x="-53.2535" e_y="674.093" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993844304" parent="0" id_b="2210992979936" id_e="2210992980560" b_x="-103.172" b_y="799.019" e_x="241.01" e_y="611.998" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210988262432" parent="0" id_b="2210992979936" id_e="2210992968496" b_x="-103.172" b_y="799.019" e_x="-273" e_y="476.875" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="2210993845504" parent="0" id_b="2210992976608" id_e="2210992968496" b_x="-46.616" b_y="408.26" e_x="-273" e_y="476.875" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993836384" parent="0" id_b="2210992979936" id_e="2210991897776" b_x="-103.172" b_y="799.019" e_x="-126.627" e_y="626.868" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993833024" parent="0" id_b="2210992979936" id_e="2210991898608" b_x="-103.172" b_y="799.019" e_x="143.12" e_y="693.88" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="2210988264832" parent="0" id_b="2210992976608" id_e="2210992980560" b_x="-46.616" b_y="408.26" e_x="241.01" e_y="611.998" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210988267952" parent="0" id_b="2210992980144" id_e="2210993845504" b_x="-119.902" b_y="488.591" e_x="-910" e_y="140.001" dotBBalance="0" dotEBalance="0.647229">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993847904" parent="0" id_b="2210992965584" id_e="2210988256192" b_x="-184.382" b_y="563.786" e_x="-910" e_y="140.001" dotBBalance="0" dotEBalance="0.436716">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210993838784" parent="0" id_b="2210992979936" id_e="2210992971408" b_x="-103.172" b_y="799.019" e_x="228.8" e_y="473.106" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210994863168" parent="0" id_b="2210992954352" id_e="2210994852368" b_x="524.106" b_y="405.702" e_x="0" e_y="-1" dotBBalance="0" dotEBalance="0.744558">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="2210994852368" parent="0" id_b="2210992957680" id_e="2210992954144" b_x="863.384" b_y="268.259" e_x="399.819" e_y="400.734" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210994853088" parent="0" id_b="2210992958096" id_e="2210992972032" b_x="806.828" b_y="659.018" e_x="1138.8" e_y="333.105" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210994865568" parent="0" id_b="2210992959136" id_e="2210994863408" b_x="965.96" b_y="477.396" e_x="473.616" e_y="500.336" dotBBalance="0" dotEBalance="0.851276">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210994864128" parent="0" id_b="2210992961008" id_e="2210994855248" b_x="1036.65" b_y="360.025" e_x="473.616" e_y="500.336" dotBBalance="0" dotEBalance="0.497204">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="2210994865328" parent="0" id_b="2210992957680" id_e="2210992957056" b_x="863.384" b_y="268.259" e_x="847.172" e_y="533.028" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210994862928" parent="0" id_b="2210992960800" id_e="2210994865328" b_x="949.783" b_y="441.649" e_x="473.616" e_y="500.336" dotBBalance="0" dotEBalance="0.713993">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="2210994863648" parent="0" id_b="2210992957680" id_e="2210992972032" b_x="863.384" b_y="268.259" e_x="1138.8" e_y="333.105" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210994862688" parent="0" id_b="2210992958096" id_e="2210992957056" b_x="806.828" b_y="659.018" e_x="847.172" e_y="533.028" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="2210994864368" parent="0" id_b="2210992957680" id_e="2210992975360" b_x="863.384" b_y="268.259" e_x="783.373" e_y="486.867" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210994861488" parent="0" id_b="2210992958096" id_e="2210992956848" b_x="806.828" b_y="659.018" e_x="1151.01" e_y="471.997" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210994856208" parent="0" id_b="2210992958096" id_e="2210992962464" b_x="806.828" b_y="659.018" e_x="1053.12" e_y="553.879" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="2210994855248" parent="0" id_b="2210992957680" id_e="2210992956848" b_x="863.384" b_y="268.259" e_x="1151.01" e_y="471.997" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210994854288" parent="0" id_b="2210992962048" id_e="2210994864368" b_x="725.618" b_y="423.785" e_x="473.616" e_y="500.336" dotBBalance="0" dotEBalance="0.436716">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="2210994860768" parent="0" id_b="2210992957680" id_e="2210992967664" b_x="863.384" b_y="268.259" e_x="637" e_y="336.874" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210994861008" parent="0" id_b="2210992958096" id_e="2210992967664" b_x="806.828" b_y="659.018" e_x="637" e_y="336.874" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210994855008" parent="0" id_b="2210992961632" id_e="2210994860768" b_x="790.098" b_y="348.59" e_x="473.616" e_y="500.336" dotBBalance="0" dotEBalance="0.647229">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2210994857888" parent="0" id_b="2210992958096" id_e="2210992975360" b_x="806.828" b_y="659.018" e_x="783.373" e_y="486.867" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="2210994863408" parent="0" id_b="2210992957680" id_e="2210992962464" b_x="863.384" b_y="268.259" e_x="1053.12" e_y="553.879" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+    </staticSector>
+</GWF>
